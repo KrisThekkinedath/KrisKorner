@@ -2,41 +2,24 @@
 <html>
 <head>
     <title>Kris' Korner - Your Basketball Blog</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #536ebb;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px;
-        }
-        h1 {
-            margin: 0;
-        }
-        nav {
-            background-color: #555;
-            color: white;
-            text-align: center;
-            padding: 10px;
-        }
-        nav a {
-            color: white;
-            text-decoration: none;
-            margin: 0 10px;
-        }
-        .content {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: white;
-            border: 1px solid #ddd;
-            box-shadow: 0px 0px 10px #ddd;
-        }
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #536ebb; margin: 0; padding: 0;">
+    <header style="background-color: #333; color: white; text-align: center; padding: 10px;">
+        <h1 style="margin: 0;">Your Header</h1>
+    </header>
+    <nav style="background-color: #555; color: white; text-align: center; padding: 10px;">
+        <a style="color: white; text-decoration: none; margin: 0 10px;" href="#">Home</a>
+        <a style="color: white; text-decoration: none; margin: 0 10px;" href="#">About</a>
+        <a style="color: white; text-decoration: none; margin: 0 10px;" href="#">Services</a>
+        <a style="color: white; text-decoration: none; margin: 0 10px;" href="#">Contact</a>
+    </nav>
+    <div class="content" style="max-width: 800px; margin: 20px auto; padding: 20px; background-color: white; border: 1px solid #ddd; box-shadow: 0px 0px 10px #ddd;">
+        <!-- Your page content goes here -->
+        <h2>Welcome to Your Website</h2>
+        <p>This is where you can add your website content.</p>
+    </div>
+</body>
+</html>
     </style>
 </head>
 <body>
