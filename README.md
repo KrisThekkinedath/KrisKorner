@@ -14,9 +14,6 @@
         <a style="color: white; text-decoration: none; margin: 0 10px;" href="#">Contact</a>
     </nav>
     <div class="content" style="max-width: 800px; margin: 20px auto; padding: 20px; background-color: white; border: 1px solid #ddd; box-shadow: 0px 0px 10px #ddd;">
-        <!-- Your page content goes here -->
-        <h2>Welcome to Your Website</h2>
-        <p>This is where you can add your website content.</p>
     </div>
 </body>
 </html>
