@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Kris' Korner - Your Basketball Blog</title>
-</head>
+
 <body style="font-family: Arial, sans-serif; background-color: #536ebb; margin: 0; padding: 0;">
     <header style="background-color: #333; color: white; text-align: center; padding: 10px;">
         <h1 style="margin: 0;">Your Header</h1>
